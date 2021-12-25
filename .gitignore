@@ -1,0 +1,16 @@
+/ECommerce-Website/client/node_modules
+/Blog-Website/client/node_modules
+/Blog-Website/server/node_modules
+/ECommerce-Website/server/node_modules
+/ECommerce-Website/server/config.env
+/Whatsapp-Clone/client/node_modules
+/Whatsapp-Clone/server/node_modules
+/Whatsapp-Clone/socket/node_modules
+/Whatsapp-Clone/server/.env
+/Inshorts-Clone/server/node_modules
+/Inshorts-Clone/server/package-lock.json
+/Inshorts-Clone/client/node_modules
+/Inshorts-Clone/client/package-lock.json
+28.10.2021_14.09.14_REC
+quote-Application
+node_modules
